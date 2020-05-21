@@ -1,0 +1,2 @@
+# Linear-Regression-with-Python[Brandon Foltz]
+ I have converted Brandon Foltz's Simple linear regression playlist into a jupyter notebook format.  The data set used for example in the video series by Brandon has been manually created and used.  For more information on videos of Brandon Check out the following link: https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi
